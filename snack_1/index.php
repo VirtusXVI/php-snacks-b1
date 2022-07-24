@@ -14,16 +14,16 @@
         $games = [
             ["homeTeam" => "Olimpia Milano",
             "guestTeam" => "Cantu",
-            score => "55-60"],
+            "score" => "55-60"],
             ["homeTeam" => "Olimpia Milano1",
             "guestTeam" => "Cantu1",
-            score => "31-12"],
+            "score" => "31-12"],
             ["homeTeam" => "Olimpia Milano2",
             "guestTeam" => "Cantu2",
-            score => "10-5"],
+            "score" => "10-5"],
             ["homeTeam" => "Olimpia Milano3",
             "guestTeam" => "Cantu3",
-            score => "30-26"]
+            "score" => "30-26"]
         ];
     ?>
     <ul>
